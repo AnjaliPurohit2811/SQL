@@ -7,7 +7,7 @@
 To set up the database, execute the following SQL script to create the employees table:
 
 ```sql
-CREATE TABLE employees (
+CREATE TABLE EmployeesData (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name TEXT,
     role TEXT,
